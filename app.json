@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "AntApp",
+    "slug": "AntApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
